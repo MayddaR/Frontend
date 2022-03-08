@@ -1,0 +1,149 @@
+#logo {
+    position: absolute;
+    width: 100px;
+    height: 146.37px;
+    left: 670px;
+    top: 20.91
+    }
+
+h1  { 
+     font-family: 'Times New Roman';
+     font-style: bold; 
+     line-height: 35%; 
+     font-size: 40px; 
+     line-height: 85%; 
+     color: #005677; 
+     text-align: center;
+     vertical-align: top;
+     position: absolute;
+     width: 1013px;
+     height: 29.87px;
+     left: 213px;
+     top: 202.13px
+    }
+
+div {
+    position: absolute;
+    width: 1013px;
+    height: 35px;
+    left: 0px;
+    top: 10px;
+    background: #C4C4C4;
+    }
+
+.section1 {
+    position: absolute;
+    width: 1013px;
+    height: 35px;
+    left: 0px;
+    top: 10px;
+    background: #C4C4C4;
+    }
+
+h2 {
+    position: absolute;
+    width: 395.62px;
+    height: 17px;
+    left: 213px;
+    top: 400px;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 84.69%;
+    color: #005677;
+    }
+
+#datos {
+    position: absolute;
+    width: 400px;
+    height: 17px;
+    left: 213px;
+    top: 450px;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 84.69%;
+    color: black;
+    }
+
+#italic{
+    font-weight: bold;
+    font-style: italic;
+    }
+
+.section2 {
+    position: absolute;
+    width: 1013px;
+    height: 30px;
+    left: 0px;
+    top: 150px;
+    background: #C4C4C4;
+    }
+
+#academia {
+    position: absolute;
+    width: 400px;
+    height: 17px;
+    left: 213px;
+    top: 600px;
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 84.69%;
+    color: #000000;
+    }
+
+#bold {
+    font-weight: bold;
+    }
+
+.section3 {
+    position: absolute;
+    width: 1013px;
+    height: 30px;
+    left: 0px;
+    top: 300px;
+    background: #C4C4C4;
+    }
+
+#experiencia {
+    position: absolute;
+    width: 1013px;
+    height: 17px;
+    left: 213px;
+    top: 750px;
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 84.69%;
+    color: #000000;
+    }
+
+p {
+    position: absolute;
+    width: 1013px;
+    height: 37px;
+    left: 213px;
+    top: 1040px;
+    background: #005677;
+    }
+
+#fin {
+    position: absolute;
+    width: 1030px;
+    height: 37px;
+    left: 213px;
+    top: 900px;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 84.69%;
+    color: #ffffff;
+    text-align: center;
+    }
+
